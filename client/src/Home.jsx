@@ -1,12 +1,4 @@
-// import React from 'react'
 
-// function Home(){
-//     return(
-//         <h2>Home Component</h2>
-//     )
-// }
-
-// export default Home;
 
 import React, { useState } from 'react';
 import MonacoEditor from 'react-monaco-editor';
